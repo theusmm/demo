@@ -6,4 +6,4 @@
 
 2. How to pull modifications from GitHub
 
-3. Uma outra linha
+3. Fixing merge issues
